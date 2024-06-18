@@ -1,8 +1,6 @@
-# Sample Hardhat Project
+# LOOTBOX... for $BLO
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
+This contract allows the admin to create ERC721 Loot Boxes that can be opened and contain random tokens... LOOT!
 
 ```shell
 npx hardhat help
